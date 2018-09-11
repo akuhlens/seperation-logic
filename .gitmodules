@@ -1,0 +1,3 @@
+[submodule "dsss18"]
+	path = dsss18
+	url = git@github.com:DeepSpec/dsss18.git
